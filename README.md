@@ -21,7 +21,7 @@ To request your subdomain(s) on `zako.work`, please following this step:
       ```plaintext
       domain: <SUBDOMAIN>.zako.work
       zako:   <MNT_ZAKO>
-      a:      <IP>                  #
+      a:      <IP>                  # DNS records that conform to the specification. You can create records such as `a` `cname` `ns`, please open a pull request for updates and we will help you sync.
       ```
 
 3. Create a pull request to our repo.

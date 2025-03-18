@@ -21,7 +21,7 @@
       ```plaintext
       domain: <子域名>.zako.work
       zako:   <维护者>
-      a:      <IP>               # DNS records that conform to the specification. You can create records such as `a` `cname` `ns`, please open a pull request for updates and we will help you sync.
+      a:      <IP>               # 符合规范的 DNS 记录。您可以创建诸如 `a` `cname` `ns` 之类的记录，请创建拉取请求以获取更新，我们将帮助您同步。
       ```
 
 3. 创建一个拉取请求到我们的仓库。
