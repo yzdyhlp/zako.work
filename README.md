@@ -6,7 +6,7 @@ English | [简体中文](./README_zh-CN.md)
 
 To request your subdomain(s) on `zako.work`, please following this step:
 
-1. Create a file on `zako/`, named as `<MAINTAINER>-ZAKO`.
+1. Create a file on `zako/`, named as `<MAINTAINER>-ZAKO`. Please use **ALL CAPITAL CAPTIONS** when naming your files.
     - write this content:
 
       ```plaintext
