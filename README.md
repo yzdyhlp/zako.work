@@ -26,7 +26,7 @@ To request your subdomain(s) on `zako.work`, please following this step:
 
 3. Create a pull request to our repo.
 
-这个时候目录应该是这样的：
+At this time the directory should look like this:
 
 ```plaintext
 subdomain/
