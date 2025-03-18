@@ -1,5 +1,8 @@
 # zako.work
 
+[![PRs](https://img.shields.io/github/issues-pr-closed-raw/MuskaNet/zako.work.svg?style=flat-square&colorB=FF69B4&label=pull%20requests)](https://github.com/MuskaNet/zako.work/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
+[![Contributors](https://img.shields.io/github/contributors-anon/MuskaNet/zako.work.svg?color=228B22&style=flat-square)](https://github.com/MuskaNet/zako.work/graphs/contributors)
+
 简体中文 | [English](./README.md)
 
 ## 子域名申请
