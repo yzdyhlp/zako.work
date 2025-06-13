@@ -19,6 +19,10 @@ To request your subdomain(s) on `zako.work`, please following this step:
       ```
 
 2. Create a file on `subdomain/`, named as `<SUBDOMAIN>.zako.work`.
+
+> [!IMPORTANT]  
+> If possible, please add NS records, otherwise you need open a new PR to this repository, this is cumbersome and time-consuming.
+
     - write this content:
 
       ```plaintext
@@ -27,7 +31,7 @@ To request your subdomain(s) on `zako.work`, please following this step:
       a:      <IP>                  # DNS records that conform to the specification. You can create records such as `a` `cname` `ns`, please open a pull request for updates and we will help you sync.
       ```
 
-3. Create a pull request to our repo.
+4. Create a pull request to our repo.
 
 At this time the directory should look like this:
 
