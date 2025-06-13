@@ -28,7 +28,7 @@ To request your subdomain(s) on `zako.work`, please following this step:
       ```
 
 > [!IMPORTANT]  
-> If possible, please add NS records, otherwise you need open a new PR to this repository, this is cumbersome and time-consuming.
+> If possible, please add NS records, otherwise you need open a new PR to this repository when you want update the records, this is cumbersome and time-consuming.
 
 4. Create a pull request to our repo.
 
